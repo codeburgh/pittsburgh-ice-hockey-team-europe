@@ -35,12 +35,14 @@ Blomqvist
 |C|Center|
 |D|Defense|
 |F|Forward|
+|G|Goalie|
 |LD|Left Defense|
 |LP|Left Point|
 |LW|Left Wing|
 |RD|Right Defense|
 |RP|Right Point|
 |RW|Right Wing|
+|W|Winger|
 
 ### Jersey Letters
 
