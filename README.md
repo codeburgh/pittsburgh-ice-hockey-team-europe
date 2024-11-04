@@ -145,6 +145,56 @@ Maatta - Samuelsson
 |LD|3|Olli|Maatta|
 |RD|5|Ulf|Samuelsson|
 
+### Pulled Goalie Situation (6-on-5)
+
+**PG-Unit-1**
+
+```text
+Kovalev - Malkin - Jagr - Hornqvist
+    Karlsson - Gonchar
+```
+
+|Position|Number|First Name|Last Name|
+|---|---|---|---|
+|LW|27|Alexei|Kovalev|
+|C|71|Evgeni|Malkin|
+|RW|68|Jaromir|Jagr|
+|NF|72|Patric|Hornqvist|
+|LP|65|Erik|Karlsson|
+|RP|55|Sergei|Gonchar|
+
+### Empty Net Situation (5-on-6)
+
+**EN-Unit-1**
+
+```text
+Hagelin - Hrdina - Straka
+Pettersson - Samuelsson
+```
+
+|Position|Number|First Name|Last Name|
+|---|---|---|---|
+|LW|62|Carl|Hagelin|
+|C|38|Jan|Hrdina|
+|RW|82|Martin|Straka|
+|LD|28|Marcus|Pettersson|
+|RD|5|Ulf|Samuelsson|
+
+**EN-Unit-2**
+
+```text
+Fedotenko - Lang - Hornqvist
+Maatta - Kasparaitis
+```
+
+|Position|Number|First Name|Last Name|
+|---|---|---|---|
+|LW|26|Ruslan|Fedotenko|
+|C|20|Robert|Lang|
+|RW|72|Patric|Hornqvist|
+|LD|3|Olli|Maatta|
+|RD|11|Darius|Kasparaitis|
+
 ### Overtime (3-on-3)
 
 **OT-Unit-1**
