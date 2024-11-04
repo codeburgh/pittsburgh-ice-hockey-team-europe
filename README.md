@@ -14,8 +14,8 @@ Players were selected based upon their statistical achievements, playoff success
 
 ```text
 Hagelin - Malkin (C) - Jagr (A)
-Straka (A) - Lang - Kovalev
-Morozov - Hrdina - Hornqvist
+Straka (A) - Lang - Kovalev (A)
+Morozov - Hrdina - Hornqvist (A)
 Fedotenko - Nedved - Sykora
 Rakell, Kapanen
 
@@ -52,6 +52,8 @@ Blomqvist
 |A|Alternate Captain|Jaromir Jagr (68)|
 |A|Alternate Captain|Martin Straka (82)|
 |A|Alternate Captain|Sergei Gonchar (55)|
+|A|Alternate Captain|Patric Hornqvist (72)|
+|A|Alternate Captain|Alexei Kovalev (27)|
 
 ### Players
 
