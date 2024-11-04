@@ -145,16 +145,6 @@ Maatta - Samuelsson
 |LD|3|Olli|Maatta|
 |RD|5|Ulf|Samuelsson|
 
-### Shootout Order
-
-|Order|Name|
-|---|---|
-|1|Malkin|
-|2|Jagr|
-|3|Kovalev|
-|4|Karlsson|
-|5|Sykora|
-
 ### Overtime (3-on-3)
 
 **OT-Unit-1**
@@ -186,3 +176,28 @@ Maatta - Samuelsson
 |C|93|Petr|Nedved|
 |W|17|Petr|Sykora|
 |D|11|Darius|Kasparaitis|
+
+**OT-Unit-4**
+
+- Lang / Morozov / Maatta
+
+|Position|Number|First Name|Last Name|
+|---|---|---|---|
+|C|20|Robert|Lang|
+|W|95|Aleksey|Morozov|
+|D|3|Olli|Maatta|
+
+### Shootout Order
+
+|Order|Name|
+|---|---|
+|1|Malkin|
+|2|Jagr|
+|3|Kovalev|
+|4|Karlsson|
+|5|Sykora|
+|6|Gonchar|
+|7|Straka|
+|8|Morozov|
+|9|Nedved|
+|10|Lang|
