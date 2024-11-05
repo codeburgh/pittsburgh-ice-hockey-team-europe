@@ -39,6 +39,7 @@ Blomqvist
 |LD|Left Defense|
 |LP|Left Point|
 |LW|Left Wing|
+|NF|Net Front|
 |RD|Right Defense|
 |RP|Right Point|
 |RW|Right Wing|
